@@ -1,2 +1,2 @@
-# Akbank-Web3-Practicum
-Hands on Tasks for Akbank Web3 Practicum
+## Akbank-Web3-Practicum
+This repo has been prepared for Akbank Web3 Practicum and Patika.dev.
