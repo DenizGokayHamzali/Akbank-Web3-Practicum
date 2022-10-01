@@ -17,7 +17,7 @@ contract TodoList {
     }
 
     function updateText(uint _index, string calldata _text) external { // update text to-do. 
-        todos [_index].text = _text;        
+        todos[_index].text = _text;        
     }
 
     function get (uint _index) external view returns (string memory, bool) { // get the data stored inside a to-do.
